@@ -1,0 +1,13 @@
+{
+  "name": "hello-electron",
+  "version": "0.0.1",
+  "main": "main.js",
+  "author": "Jaeyeonling <jaeyeonling@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  }, 
+  "devDependencies": {
+    "electron": "^5.0.6"
+  }
+}
